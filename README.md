@@ -11,5 +11,7 @@ export const environment = {
 ```
 
 Official Capacitor documentation: https://capacitorjs.com/docs/apis/google-maps
+
 Ionic blog: https://ionicframework.com/blog/announcing-the-capacitor-google-maps-plugin/
+
 Google Maps API: https://developers.google.com/maps/documentation
