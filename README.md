@@ -1,6 +1,12 @@
 # Google Maps App
 Ionic app that uses Capacitor plugin for Google Maps
 
+To install the plugin in the app directory:
+
+```sh
+npm i @capacitor/google-maps
+```
+
 The API_KEY for Google Maps must be set at `src/environments/environment.ts`
 
 ```js
